@@ -1,0 +1,3 @@
+
+class BaseProducer(object):
+    pass
